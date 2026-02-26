@@ -60,7 +60,7 @@ Type: Binary Classification Problem
 ---
 
 # 🔍 Methodology
-# 1. Text Preprocessing
+## 1. Text Preprocessing
 
 - Converting text to lowercase
 
@@ -72,7 +72,7 @@ Type: Binary Classification Problem
 
 - Converting labels into numerical format
 
-# 2. Feature Extraction
+## 2. Feature Extraction
 
 - Text transformed using TF-IDF Vectorization
 
@@ -80,7 +80,7 @@ Type: Binary Classification Problem
 
 - English stopwords removed
 
-# 3. Model Training
+## 3. Model Training
 
 Multiple machine learning models were trained and compared:
 
