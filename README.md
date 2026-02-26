@@ -2,12 +2,15 @@
 
 - A Machine Learning based web application that classifies IMDb movie reviews as Positive or Negative.
 
+--- 
+
 # 🚀 Project Overview
 
 - This project uses Natural Language Processing (NLP) and supervised Machine Learning techniques to analyze and classify movie reviews based on sentiment.
 
 - The model is trained on the Kaggle IMDb Movie Review Dataset and deployed using Streamlit for real-time predictions.
 
+---
 # 🛠 Technologies Used
 
 - Python
@@ -33,7 +36,7 @@
 - Joblib
 
 - Streamlit
-
+---
 # 📊 Dataset Details
 
 - Dataset: IMDb Movie Review Dataset
@@ -53,6 +56,8 @@ Labels:
 - Negative = 0
 
 Type: Binary Classification Problem
+
+---
 
 # 🔍 Methodology
 # 1. Text Preprocessing
@@ -87,6 +92,8 @@ Multiple machine learning models were trained and compared:
 
 - Random Forest Classifier
 
+---
+
 # 📈 Model Evaluation
 
 Evaluation Metrics Used:
@@ -101,6 +108,8 @@ Evaluation Metrics Used:
 
 - Confusion Matrix
 
+---
+
 # 🏆 Best Performing Models
 
 - Logistic Regression
@@ -108,6 +117,8 @@ Evaluation Metrics Used:
 - Support Vector Machine (SVM)
 
 Linear models performed exceptionally well for high-dimensional text data.
+
+---
 
 # 💡 Key Insights
 
@@ -118,6 +129,8 @@ Linear models performed exceptionally well for high-dimensional text data.
 - Naive Bayes provides fast and efficient baseline performance.
 
 - Random Forest is computationally heavier but useful for comparison.
+
+---
 
 # 🌐 Deployment
 
@@ -132,6 +145,8 @@ Users can:
 - Select a model
 
 - Get instant sentiment prediction
+
+---
 
 # 🔮 Future Improvements
 
